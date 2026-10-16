@@ -32,6 +32,11 @@ Hesap olmadığı için favorilerin, alerjenlerin ve geçmişin sadece telefonun
 silince onlar da silinir. Gönderdiğin bir fotoğrafın ya da mesajın silinmesi için yukarıdaki
 adrese yazabilirsin.
 
+**Bir ürün görselinin kaldırılmasını istiyorum (marka sahibi).**
+Uygulamada görünen marka adları, logolar ve ambalaj tasarımları sahiplerine aittir ve sadece
+ürünü tanıtmak için gösterilir; uygulamanın bu markalarla bir bağlantısı yoktur. Kaldırma
+talebin için yukarıdaki adrese ürünün barkodunu yazabilirsin.
+
 ## Yasal
 
 - [Gizlilik Politikası ve Aydınlatma Metni](../gizlilik/)

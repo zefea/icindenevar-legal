@@ -5,7 +5,7 @@ permalink: /kosullar/
 
 # İçinde Ne Var? — Kullanım Koşulları
 
-**Son güncelleme:** 16 Ekim 2026
+**Son güncelleme:** 17 Ekim 2026
 
 ## 1. Kabul
 
@@ -57,6 +57,10 @@ fotoğrafını ve etiketten okunan bilgileri uygulamada ürünün bir parçası 
 bunun için küçültüp düzenleyebilmemiz ve saklayabilmemiz için bize **ücretsiz ve süresiz** izin
 vermiş olursun. Bu izin sadece uygulama için geçerlidir; fotoğrafı satmayız, reklamda
 kullanmayız. Bir fotoğrafın kaldırılmasını istersen 9. maddedeki adrese yazabilirsin.
+
+**Markalar.** Uygulamada görünen marka adları, logolar ve ambalaj tasarımları sahiplerine aittir ve sadece
+ürünü tanıtmak için gösterilir; uygulamanın bu markalarla bir bağlantısı yoktur. Hak sahibiysen ve
+bir görselin kaldırılmasını istiyorsan zferah2000@gmail.com adresine yazabilirsin.
 
 Fotoğrafların okunması için yurt dışındaki bir yapay zekâ servisine gönderilmesi ayrıca
 açık rızana bağlıdır; ayrıntılar **Gizlilik Politikası ve Aydınlatma Metni**'ndedir.
